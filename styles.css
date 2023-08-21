@@ -1,0 +1,22 @@
+.faq-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.faq {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.question {
+    background-color: #f1f1f1;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.answer {
+    display: none;
+    padding: 10px;
+}
